@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\s.tusupbekov\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c67ce65881e4c4d5796c0a0bf3d637bb\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\s.tusupbekov\AndroidStudioProjects\AnimeWallpaperApp\app\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s.tusupbekov\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\cce2687eb6cd4df6bc10061854e88fda\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\s.tusupbekov\AndroidStudioProjects\AnimeWallpaperApp\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s.tusupbekov\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\56143072d9f381a541d7e95ccda232c6\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\Users\s.tusupbekov\AndroidStudioProjects\AnimeWallpaperApp\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s.tusupbekov\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\d9bf8b9cf6d7ea03aef2816c8f7dcd52\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\s.tusupbekov\AndroidStudioProjects\AnimeWallpaperApp\app\build\intermediates\transforms\preDex\release\29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s.tusupbekov\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\eb0e01cad49f32906cd55fb4f7c1798b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\s.tusupbekov\AndroidStudioProjects\AnimeWallpaperApp\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s.tusupbekov\.gradle\caches\transforms-1\files-1.1\firebase-database-11.0.4.aar\204387b65a704e7a3c573ac64fc55ad1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="C:\Users\s.tusupbekov\AndroidStudioProjects\AnimeWallpaperApp\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s.tusupbekov\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\1290295d1a45e3565170cb8c17849696\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="C:\Users\s.tusupbekov\AndroidStudioProjects\AnimeWallpaperApp\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s.tusupbekov\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\8469d9d51728d8d32f767d7bc265ed1c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="C:\Users\s.tusupbekov\AndroidStudioProjects\AnimeWallpaperApp\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s.tusupbekov\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\55cda8bb3ec55555ae144c2f8805c445\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="C:\Users\s.tusupbekov\AndroidStudioProjects\AnimeWallpaperApp\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s.tusupbekov\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.0.4.aar\13c093744545d72be68e942bf07c690b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="C:\Users\s.tusupbekov\AndroidStudioProjects\AnimeWallpaperApp\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s.tusupbekov\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\33d739eead5ff3c7fa5c91a84acaa1b0\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\s.tusupbekov\AndroidStudioProjects\AnimeWallpaperApp\app\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s.tusupbekov\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\9608a2c0a58ea586ab71db347af6f9b7\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="C:\Users\s.tusupbekov\AndroidStudioProjects\AnimeWallpaperApp\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s.tusupbekov\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\fddc7d075ac3374ce95c62869092978c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="C:\Users\s.tusupbekov\AndroidStudioProjects\AnimeWallpaperApp\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s.tusupbekov\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\b6833309a953f95447bec394bc253d0c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\s.tusupbekov\AndroidStudioProjects\AnimeWallpaperApp\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s.tusupbekov\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\5d6fa6d34360776aee9cfe208145cea1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\s.tusupbekov\AndroidStudioProjects\AnimeWallpaperApp\app\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s.tusupbekov\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\17a5c5d26d1888c2c15035db523eeb72\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\s.tusupbekov\AndroidStudioProjects\AnimeWallpaperApp\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s.tusupbekov\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\1b10e6f8491ed23a3dbdefc805452c55\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\Users\s.tusupbekov\AndroidStudioProjects\AnimeWallpaperApp\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s.tusupbekov\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\c51297a939a68151748d59f126693e6a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\Users\s.tusupbekov\AndroidStudioProjects\AnimeWallpaperApp\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s.tusupbekov\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\432c2ba13419c94155e9c14ed4da4475\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\s.tusupbekov\AndroidStudioProjects\AnimeWallpaperApp\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s.tusupbekov\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\06504cc56327f8756007643f73f2d292\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\s.tusupbekov\AndroidStudioProjects\AnimeWallpaperApp\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s.tusupbekov\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\s.tusupbekov\AndroidStudioProjects\AnimeWallpaperApp\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s.tusupbekov\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7019d9fc376478e13f2b1174a93d5838\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\s.tusupbekov\AndroidStudioProjects\AnimeWallpaperApp\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+
+</items>

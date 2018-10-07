@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "309532235247",
+    "firebase_url": "https://animewallpaperapp-14549.firebaseio.com",
+    "project_id": "animewallpaperapp-14549",
+    "storage_bucket": "animewallpaperapp-14549.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309532235247:android:69105f1186e84700",
+        "android_client_info": {
+          "package_name": "com.example.stusupbekov.animewallpaperapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309532235247-uo1lvqrgk5nm10k4e6sh0ho6lkatsltp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stusupbekov.animewallpaperapp",
+            "certificate_hash": "00c9752752ddd4c0f0e27a8f68b6741cbb1442b6"
+          }
+        },
+        {
+          "client_id": "309532235247-p1igs06opnhqo48dfiksaih75cn962c2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxnkV3I8gX36Z28YhZYS-JhMBiD3o3fPc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309532235247-p1igs06opnhqo48dfiksaih75cn962c2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
